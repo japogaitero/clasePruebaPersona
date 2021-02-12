@@ -12,6 +12,8 @@ package pruebapersona;
  */
 public class Prueba {
     // comentarios de prueba desde el primer commit
+    
+    //comentarios de prueba en el segundo commit 
 
 }
- 
+  
